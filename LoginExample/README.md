@@ -8,7 +8,7 @@ Screenshots:
 
 **Splash Screen**
 
-<img src="screenshots\SplashScreen.jpg" style="zoom:50%;" />
+<img src="screenshots\SplashScreen.jpg" style="zoom:10%;" />
 
 
 

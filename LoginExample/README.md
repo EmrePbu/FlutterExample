@@ -1,16 +1,35 @@
-# LoginExample
+# Login Example
 
-A new Flutter project.
+Flutter Login Screens
 
-## Getting Started
+Ui Kit Download : https://adobe.ly/xdfreshfooduikit
 
-This project is a starting point for a Flutter application.
+Screenshots: 
 
-A few resources to get you started if this is your first Flutter project:
+**Splash Screen**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="C:\Users\LENOVO\Documents\GitHub\FlutterExample\LoginExample\screenshots\Screenshot_20210221-114048.jpg" style="zoom:50%;" />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+**Sign In Screen**
+
+<img src="C:\Users\LENOVO\Documents\GitHub\FlutterExample\LoginExample\screenshots\Screenshot_20210221-114105.jpg" style="zoom:50%;" />
+
+**Create Account Screen**
+
+<img src="C:\Users\LENOVO\Documents\GitHub\FlutterExample\LoginExample\screenshots\Screenshot_20210221-114111.jpg" style="zoom:50%;" />
+
+
+
+**Info Screen 1**
+
+<img src="C:\Users\LENOVO\Documents\GitHub\FlutterExample\LoginExample\screenshots\Screenshot_20210221-114151.jpg" style="zoom:50%;" />
+
+**Info Screen 2**
+
+<img src="C:\Users\LENOVO\Documents\GitHub\FlutterExample\LoginExample\screenshots\Screenshot_20210221-114156.jpg" style="zoom:50%;" />
+
+**Info Screen 3**
+
+<img src="C:\Users\LENOVO\Documents\GitHub\FlutterExample\LoginExample\screenshots\Screenshot_20210221-114208.jpg" style="zoom:50%;" />
